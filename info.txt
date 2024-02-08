@@ -1,0 +1,12 @@
+how to upload code in github
+1.intialize the git using :- git init
+2.add the code using :- git add .
+3.git commit -m "name"
+4.git remote add origin git@github.com:yash4518ahir/Hello_react.git :- this command create a remote
+5.git push origin main :-this is use to push your code in main branch
+
+enter your user name and email using if authore identification error occure
+1.git config --global user.name "name"
+2.git config --global user.email "your email"
+
+if permission denied then create ssh keys
